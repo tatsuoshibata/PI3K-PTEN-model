@@ -1,0 +1,17 @@
+tau=5.0
+
+v1=18.
+K1=0.22
+v2=5.77
+K2=15.5
+v0=6.5
+K4=0.53
+K5=13.3
+lambda=5.0
+PIP2degradation=0.005
+
+D=1.000
+D_PTEN=0.75
+printTime=1.0
+
+perturbTime=-1
