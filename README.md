@@ -5,21 +5,13 @@ Shibata, T., Nishikawa, M., Matsuoka, S., & Ueda, M. (2012). Modeling the self-o
 
 
 - PI3KPTENModel.c is a c-code program, which performs the numerical calculation of Eq. (4) in the paper.
-
 - param_A.txt to param_E.txt give the parameters in Fig. 7 for the program.
-
 - makeKymograph.m is a matlab program to generate a kymograph a data file.
 
 `# make`
-
 `# PI3KPTENModel.out -f param_A.txt -o outA`
-
 `# for i in {A..E};do ./PI3KPTENModel.out -o out${i} -f param_${i}.txt done`
-
 `# matlab -nodesktop -nosplash << 'EOF'
-
 `makeKymograph;`
-
 `exit`
-
 `EOF`
