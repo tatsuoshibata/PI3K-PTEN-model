@@ -1,5 +1,5 @@
 # PI3K-PTEN-model
-A program to generate the figures in the paper  http://doi.org/10.1242/jcs.108373
+This is a program to generate the figures in the paper  http://doi.org/10.1242/jcs.108373
 
 Shibata, T., Nishikawa, M., Matsuoka, S., & Ueda, M. (2012). Modeling the self-organized phosphatidylinositol lipid signaling system in chemotactic cells using quantitative image analysis. Journal of Cell Science, 125(21), 5138–5150. http://doi.org/10.1242/jcs.108373
 
